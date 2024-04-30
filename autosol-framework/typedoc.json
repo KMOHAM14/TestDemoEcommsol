@@ -1,0 +1,6 @@
+{
+  "entryPoints": ["src"],
+  "exclude": ["**/__tests__/**", "**/__dist__/**", "dist"],
+  "out": "docs",
+  "plugin": ["typedoc-plugin-markdown"],
+}
